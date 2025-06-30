@@ -14,11 +14,11 @@ O projeto permite a validação de uma senha utilizando um controle remoto infra
 
 ## Grupo
 
-- **Nome** -  No USP
-- **Nome** -  No USP
-- **Nome** -  No USP
-- **Nome** -  No USP
-- **Nome** -  No USP
+- **David Icheng Wang Chou** - 16861870
+- **Erik Min Soo Chung** - 15450334
+- **Gabriel Moura** - 16867383
+- **Luis Henrique Fonseca Aguilar** - 16885720
+- **Marcelo da Silva Zanata** - 16831070
 
 ## Imagens
 
