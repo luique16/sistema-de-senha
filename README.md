@@ -22,16 +22,9 @@ O projeto permite a validação de uma senha utilizando um controle remoto infra
 
 ## Imagens
 
-<div align="center">
-<div>
-    <img src="./assets/arduino-tinkercad.jpg" alt="Imagem 1" width="300">
-    <p style="color: gray;"> Circuito simulado no TinkerCad </p>
-</div>
-&nbsp; &nbsp; &nbsp;
-<div>
-    <img src="./assets/arduino.jpg" alt="Imagem 2" width="300">
-    <p style="color: gray;"> Circuito montado </p>
-</div>
-</div>
+<p align="center">
+    <img src="./assets/arduino-tinkercad.jpg" alt="Imagem 1" height="400" hspace="10">
+    <img src="./assets/arduino.jpg" alt="Imagem 2" height="400" hspace="10">
+</p>
 
 ## Vídeo de Demonstração
