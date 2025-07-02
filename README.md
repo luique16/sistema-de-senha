@@ -28,3 +28,5 @@ O projeto permite a validação de uma senha utilizando um controle remoto infra
 </p>
 
 ## Vídeo de Demonstração
+
+Link para o YouTube: <a href="https://youtu.be/ZTFgT5s-788?si=sPknMB_9r93HaJTo">https://youtu.be/ZTFgT5s-788?si=sPknMB_9r93HaJTo</a>
